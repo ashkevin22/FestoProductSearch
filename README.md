@@ -8,8 +8,6 @@ Festo Product Search allows users to capture a picture of a Festo product and th
 - React.js for frontend
    - Jest and react-testing for testing
    - ESLint for JavaScript linting
-   - NPM audit to ensure no security issues
-   - NPM prettier-check to ensure that all files follow the correct style
 - Python for backend
    - Pytest for testing
    - flake8 for linting and styling
