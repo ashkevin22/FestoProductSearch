@@ -20,6 +20,18 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Project Structure
+
+components folder: This contains all the necessary pieces that we need for our pages. For example, buttons, forms, search bars, etc. Components in multiple places go under components/shared. 
+
+lib folder: This contains all the utilities used by our react components/api routes. 
+
+public folder: Think of this as your average assets folder. We will store images and other related media in here. 
+
+styles folder: This folder is for css styling where tailwind isn't applicable. 
+
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
